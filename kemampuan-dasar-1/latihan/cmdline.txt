@@ -1,0 +1,63 @@
+1. echo
+
+C:\Users\Taufiq>echo
+ECHO is on.
+
+C:\Users\Taufiq>echo Hello, World!
+Hello, World!
+
+2. date
+
+C:\WINDOWS\system32>date 29-01-2020
+
+C:\WINDOWS\system32>date /t
+29/01/2020
+
+C:\WINDOWS\system32>date 28-01-2020
+
+C:\WINDOWS\system32>date /t
+28/01/2020
+
+3. color
+
+C:\WINDOWS\system32>color 0a
+
+4. del
+
+C:\WINDOWS\system32>del d:\dummy.txt
+
+5. exit
+
+C:\WINDOWS\system32>exit
+
+6. time
+
+C:\WINDOWS\system32>time
+The current time is: 14:04:09,45
+Enter the new time:
+
+C:\WINDOWS\system32>time /t
+14:04
+
+7. ren
+
+C:\WINDOWS\system32>ren d:\dummy-3.txt dummy-4.doc
+
+8. help
+
+C:\WINDOWS\system32>help ren
+Renames a file or files.
+
+RENAME [drive:][path]filename1 filename2.
+REN [drive:][path]filename1 filename2.
+
+Note that you cannot specify a new drive or path for your destination file.
+
+9. move
+
+C:\WINDOWS\system32>move d:\dummy-4.doc c:\
+        1 file(s) moved.
+
+10. 
+
+
